@@ -6,6 +6,8 @@ This talk is about the [transition kernels](https://en.wikipedia.org/wiki/Markov
 Here's a nice animation of the Metropolis-Hastings algorithm I found online:
 [![MH animation](https://img.youtube.com/vi/zL2lg_Nfi80/0.jpg)](https://www.youtube.com/watch?v=zL2lg_Nfi80)
 
+If this is up your alley, you might want to take a look at some of the [animations](https://github.com/maxbiostat/third_year_talk/blob/master/animations/sampling_trees.md) I've put together to illustrate MCMC on trees. 
+
 For this talk I have stolen figures and/or slides from:
 - [Erick Matsen](https://github.com/matsen) and [Chris Whidden](https://web.cs.dal.ca/~whidden/); 
 - [Paul Lewis](http://phylogeny.uconn.edu/person/paul-lewis/);
