@@ -1,6 +1,8 @@
 # Third year talk
 My talk at the Institute of Evolutionary Biology Postgraduate Symposium 2017
 
+[[SLIDES]](https://github.com/maxbiostat/third_year_talk/blob/master/2017_LMCarvalho_MCMC_PostgradSymposium.pdf)
+
 This talk is about the [transition kernels](https://en.wikipedia.org/wiki/Markov_kernel) we developed for [BEAST](http://beast.bio.ed.ac.uk/). I spend most of the talk motivating Bayesian phylogenetics and providing some background. At the end I move on to show some results on small data sets.
 
 Here's a nice animation of the Metropolis-Hastings algorithm I found online:
