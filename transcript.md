@@ -10,7 +10,7 @@
 - I must acknowledge the help of three very smart gentlemen.
 
 [slide 2] "Motivation"
-- OK. So why are we interested in trees -- or phylogenies, I'll use both terms interchangeably -- to being with?
+- OK. So why are we interested in trees -- or phylogenies, I'll use both terms interchangeably -- to begin with?
 - Well, there are plenty of reasons, but I'll stick to the ones relevant to the work done in my group;
 - In our group we are interested in the evolution of emerging human viral pathogens, in particular, fast evolving RNA viruses that have been sampled through time;
 - These questions are addressed by the field of Phylodynamics;
@@ -45,7 +45,6 @@
 - Another way of looking at this space is to construct a graph (network) where every vertex is a tree and there's an edge between two trees if they can be reached from one another using a particular tree rearrangement. In this case this is the SPR graph, where two trees are connected if we can go from one to the other by pruning a subtree and regrafting is somewhere else.
 
 [slide 6] "Metropolis-Hastings algorithm"
-- https://youtu.be/zL2lg_Nfi80
 - The basic idea of MH is to sample from a distribution by looking at *ratios* of densities, rather than the actual densities;
 - This avoids nasty normalising constants and ensures we sample from the right target under some regularity conditions.
 
