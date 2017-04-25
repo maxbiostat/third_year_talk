@@ -13,4 +13,4 @@ For this talk I have stolen figures and/or slides from:
 - [Paul Lewis](http://phylogeny.uconn.edu/person/paul-lewis/);
 - [Mark Holder](http://phylo.bio.ku.edu/content/mark-t-holder);
 - [Sebastian Hoehna](https://github.com/hoehna);
-- [This paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947);
+- [This paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947).
